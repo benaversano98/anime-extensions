@@ -33,7 +33,7 @@ class AnimeUnity :
 
     // TODO: Check frequency of url changes to potentially
     // add back overridable baseurl preference
-    override val baseUrl = "https://www.animeunity.so"
+    override val baseUrl = "https://www.animeunity.co"
 
     override val lang = "it"
 
